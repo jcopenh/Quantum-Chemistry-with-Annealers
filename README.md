@@ -3,4 +3,4 @@ Methods to calculate the ground state properties of molecular systems using quan
 
     arXiv link
 
-### Dependency list
+### Requirements
