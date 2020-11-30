@@ -1,7 +1,7 @@
 # Quantum Chemistry with Annealers
 Methods to calculate the ground state properties of molecular systems using quantum annealers. This code is meant for demonstration purposes only and is not well optimized. Accompanies the paper:
 
-    arXiv paper citation
+    J. Copenhaver, A. Wasserman, and B. Wehefritz-Kaufmann. “Using Quantum Annealers to Calculate Ground State Properties of Molecules,” (2020), arXiv:2009.10779v2 [quant-ph].
 
 ### Requirements
     numpy                   https://github.com/numpy/numpy 
